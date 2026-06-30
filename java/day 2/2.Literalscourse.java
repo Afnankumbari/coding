@@ -1,4 +1,4 @@
-public class Literalscourse {
+class Literalscourse {
    
 
 	public static void main(String[] args) {

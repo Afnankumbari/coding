@@ -19,3 +19,11 @@ public static void main(String[] args) {
 }
     
 }
+
+
+/**
+ * Implicit type conversion: 10.0
+Explicit type conversion: 9
+Result of arithmetic operation: 7.0
+
+ */
