@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "arithmetic",
+            "request": "launch",
+            "mainClass": "day3.arithmetic",
+            "projectName": "coding_50b18b23"
+        },
+        {
+            "type": "java",
+            "name": "Relational",
+            "request": "launch",
+            "mainClass": "day3.Relational",
+            "projectName": "coding_50b18b23"
+        },
+        {
+            "type": "java",
+            "name": "Relational",
+            "request": "launch",
+            "mainClass": "java.day3.Relational",
+            "projectName": "coding_50b18b23"
+        },
+        {
+            "type": "java",
             "name": "typeconversioncourse",
             "request": "launch",
             "mainClass": "typeconversioncourse",

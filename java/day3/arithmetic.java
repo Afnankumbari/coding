@@ -1,3 +1,4 @@
+package day3;
 public class arithmetic {
     public static void main(String[] args) {
         
