@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "typeconversion2",
+            "request": "launch",
+            "mainClass": "day2.Typeconversion2",
+            "projectName": "coding_50b18b23"
+        },
+        {
+            "type": "java",
             "name": "arithmetic",
             "request": "launch",
             "mainClass": "day3.arithmetic",

@@ -1,4 +1,4 @@
-public class typeconversion2 {
+class typeconversion2 {
     
     public static void main(String[] args) {
         System.out.println("Type Conversion in Java");
