@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 
-![Type Conversion Diagram](type_conversion_diagram.svg)
+![Type Conversion Diagram](type_conversion_diagram.png)
 
 ---
 
