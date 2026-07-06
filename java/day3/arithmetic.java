@@ -1,3 +1,4 @@
+package day3;
 public class arithmetic {
     public static void main(String[] args) {
         
@@ -31,3 +32,16 @@ public class arithmetic {
     }
     
 }
+
+
+/*12
+2
+35
+1
+2
+7
+5
+9
+3
+15
+24 */

@@ -12,3 +12,5 @@ class Logicaloperator{
 
     }
 }
+
+// true, true

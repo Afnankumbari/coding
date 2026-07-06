@@ -26,3 +26,11 @@ class Task {
       
   }
 }
+
+
+/*Addition: 30
+Subtraction: 10
+Multiplication: 200
+Division: 2
+Is a greater than b? true
+Is a > b and b > 0? true */

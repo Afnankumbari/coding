@@ -26,3 +26,13 @@ public class Relational {
     }
     
 }
+
+
+/*true
+false
+true
+false
+false
+true
+true
+true */

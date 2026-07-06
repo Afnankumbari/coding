@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ifelse",
+            "request": "launch",
+            "mainClass": "day5.Ifelse",
+            "projectName": "coding_50b18b23"
+        },
+        {
+            "type": "java",
+            "name": "Logicaloperator",
+            "request": "launch",
+            "mainClass": "Logicaloperator",
+            "projectName": "coding_50b18b23"
+        },
+        {
+            "type": "java",
+            "name": "arithmetic",
+            "request": "launch",
+            "mainClass": "java.day3.arithmetic",
+            "projectName": "coding_50b18b23"
+        },
+        {
+            "type": "java",
             "name": "Task",
             "request": "launch",
             "mainClass": "Task",
