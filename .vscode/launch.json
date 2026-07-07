@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IfElseIf",
+            "request": "launch",
+            "mainClass": "day5.IfElseIf",
+            "projectName": "coding_50b18b23"
+        },
+        {
+            "type": "java",
             "name": "Ifelse",
             "request": "launch",
             "mainClass": "day5.Ifelse",

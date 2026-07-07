@@ -11,7 +11,7 @@ public class IfElseIf {
         int y = scanner.nextInt();
         int z = scanner.nextInt();
 
-        System.out.println("You entered numbers are x:"+ x +"  y:"+ y +"  z:"+ z);
+        System.out.println("You entered numbers are x:"+ x +"   y:"+ y +"   z:"+ z);
 
 
         if (x > y && x > z){
