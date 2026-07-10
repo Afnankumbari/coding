@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task3",
+            "request": "launch",
+            "mainClass": "day6.Task3",
+            "projectName": "coding_50b18b23"
+        },
+        {
+            "type": "java",
             "name": "WhileLoop",
             "request": "launch",
             "mainClass": "day6.WhileLoop",
