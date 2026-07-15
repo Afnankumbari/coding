@@ -12,13 +12,13 @@ public class Switch{
                 break;
             case 3:
                 System.out.println("Wednesday");
-                Break;
+                break;
             case 4:
                 System.out.println("Thrusday");
                 break;
             case 5:
                 System.out.println("Friday");
-                Break;
+                break;
             case 6:
                 System.out.println("Saturday");
                 break;
