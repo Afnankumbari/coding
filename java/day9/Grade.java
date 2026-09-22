@@ -2,7 +2,7 @@ package day9;
 
 import java.util.Scanner;
 
-public class Grade {
+public class   Grade {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int marks = scanner.nextInt();
